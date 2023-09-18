@@ -1,0 +1,22 @@
+{
+  "name": "dsa_in_js",
+  "version": "1.0.0",
+  "description": "DSA using JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borel-T/DSA_with_js_borelTG.git"
+  },
+  "keywords": [
+    "DSA"
+  ],
+  "author": "Borel Tchassem Guemte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borel-T/DSA_with_js_borelTG/issues"
+  },
+  "homepage": "https://github.com/borel-T/DSA_with_js_borelTG#readme"
+}
